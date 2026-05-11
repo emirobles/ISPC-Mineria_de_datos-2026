@@ -1,7 +1,7 @@
 # Proyecto ABP - Minería de Datos sobre Diabetes
 
 ## Integrantes
-- Ian Marin
+- Ian Marini
 - Emilce Robles
 
 ## Descripción
